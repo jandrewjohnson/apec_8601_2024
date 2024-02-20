@@ -1,0 +1,67 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../global_invest/global_invest_dev"
+		},
+		{
+			"path": "../../../gtap_invest/gtap_invest_dev"
+		},
+		{
+			"path": "../../../gtappy/gtappy_dev"
+		},
+		{
+			"path": "../../../hazelbean/hazelbean_dev"
+		},
+		{
+			"path": "../../../seals/seals_dev"
+		},
+		{
+			"path": "../../../Teaching/apec_8601/apec_8601_dev"
+		},
+		{
+			"path": "../../../Teaching/apec_8601/apec_8601_2024"
+		}
+	],
+	"settings": {
+		"files.autoSave": "onFocusChange",
+		"python.analysis.extraPaths": [
+			"${workspaceFolder}/../../../global_invest/global_invest_dev",
+			"${workspaceFolder}/../../global_invest/global_invest_dev",
+			"${workspaceFolder}/../global_invest/global_invest_dev",
+			"${workspaceFolder}/../../../gtap_invest/gtap_invest_dev",
+			"${workspaceFolder}/../../gtap_invest/gtap_invest_dev",
+			"${workspaceFolder}/../gtap_invest/gtap_invest_dev",
+			"${workspaceFolder}/../../../gtappy/gtappy_dev",
+			"${workspaceFolder}/../../gtappy/gtappy_dev",
+			"${workspaceFolder}/../gtappy/gtappy_dev",
+			"${workspaceFolder}/../../../hazelbean/hazelbean_dev",
+			"${workspaceFolder}/../../hazelbean/hazelbean_dev",
+			"${workspaceFolder}/../hazelbean/hazelbean_dev",
+			"${workspaceFolder}/../../../seals/seals_dev",
+			"${workspaceFolder}/../../seals/seals_dev",
+			"${workspaceFolder}/../seals/seals_dev",
+			
+		],
+		"python.autoComplete.extraPaths": [
+			"${workspaceFolder}/../../../global_invest/global_invest_dev",
+			"${workspaceFolder}/../../global_invest/global_invest_dev",
+			"${workspaceFolder}/../global_invest/global_invest_dev",
+			"${workspaceFolder}/../../../gtap_invest/gtap_invest_dev",
+			"${workspaceFolder}/../../gtap_invest/gtap_invest_dev",
+			"${workspaceFolder}/../gtap_invest/gtap_invest_dev",
+			"${workspaceFolder}/../../../gtappy/gtappy_dev",
+			"${workspaceFolder}/../../gtappy/gtappy_dev",
+			"${workspaceFolder}/../gtappy/gtappy_dev",
+			"${workspaceFolder}/../../../hazelbean/hazelbean_dev",
+			"${workspaceFolder}/../../hazelbean/hazelbean_dev",
+			"${workspaceFolder}/../hazelbean/hazelbean_dev",
+			"${workspaceFolder}/../../../seals/seals_dev",
+			"${workspaceFolder}/../../seals/seals_dev",
+			"${workspaceFolder}/../seals/seals_dev",
+		]
+		
+	}
+}
